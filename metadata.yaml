@@ -1,0 +1,36 @@
+_repo: Donovan-Pasha-and-Some-People-of-Egypt---Complete_6260
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Parker, Gilbert
+    aliases:
+    - Parker, Gilbert, Sir, bart.
+    - Parker, Horatio Gilbert
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '1285'
+    url: http://www.gutenberg.org/2009/agents/1285
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
+description: ''
+gutenberg_bookshelf: Egypt
+gutenberg_issued: '2004-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6260'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Egypt -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: While the lamp holds out to burn -- The price of the grindstone and
+  the drum -- The desertion of Mohammed Selim -- On the reef of Norman's woe --  Fielding
+  had an orderly -- The eye of the needle -- A treaty of peace -- At the mercy of
+  Tiberius -- All the world's mad -- The man at the wheel -- A tyrant and a lady --
+  A young lion of Dedan -- He would not be denied -- The flower of the flock --  The
+  light of other days.
+title: Donovan Pasha, and Some People of Egypt — Complete
+url: http://www.gutenberg.org/ebooks/6260
